@@ -1,6 +1,4 @@
 import {Component, Input} from '@angular/core';
-import {NgIf, UpperCasePipe} from '@angular/common';
-import {FormsModule} from '@angular/forms';
 import {Hero} from '../hero';
 
 @Component({
